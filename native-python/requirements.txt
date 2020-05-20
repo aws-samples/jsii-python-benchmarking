@@ -1,0 +1,1 @@
+aws-jsiisamples.jsii-native-python==1.5.0
